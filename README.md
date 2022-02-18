@@ -16,7 +16,7 @@ python assignmentSolution.py
 # Output
 Once the above steps are executed the output obtained is as follows:
 
-![Screenshot](output.png)
+![Screenshot](output.jpg)
 
 ![Screenshot](output_2.png)
 
