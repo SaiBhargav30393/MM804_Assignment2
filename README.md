@@ -12,3 +12,14 @@ pip install -r requirements.txt
 Then run python file using command:
 
 python assignmentSolution.py
+
+# Output
+Once the above steps are executed the output obtained is as follows:
+
+![Screenshot](output.png)
+
+![Screenshot](output_2.png)
+
+![Screenshot](output_3.png)
+
+![Screenshot](output_4.png)
