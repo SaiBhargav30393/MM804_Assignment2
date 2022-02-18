@@ -1,10 +1,15 @@
 # MM - 804 Assignment 2
 ## Image description
 Name - Warlock_repaired.stl
+
 File size – 31,330 kb
+
 Number of vertices on the original object = 319564
+
 Number of vertices on the remaining part = 115705
+
 Number of vertices on the clipped part = 209519
+
 Number of vertices on the sliced area = 2830
 
 ## Requirements
